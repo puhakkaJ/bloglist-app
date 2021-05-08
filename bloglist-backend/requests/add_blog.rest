@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Implbm5pIiwiaWQiOiI2MDg1ZDAzZTUyMjgzYzY1NzQxNmJmOGEiLCJpYXQiOjE2MjAzMzI3MjR9.Or4qhDcjwDihCqg9XTdocyopD-facp6SZ919Hcn_kfE
+
+{ 
+    "title": "NYTTTTTT",
+    "author": "toimkkiiko",
+    "url": "kdjnnnood",
+    "likes": 4
+}
